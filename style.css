@@ -58,11 +58,13 @@ body {
     transform: rotatey(0deg);
 }
 
-.img {
-    border-radius: 250px;
-}
 
 h1 {
     color: aqua;
     font-family:cursive;
+}
+
+
+.container img {
+    border-radius: 15px; 
 }
